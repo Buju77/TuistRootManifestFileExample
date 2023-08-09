@@ -1,0 +1,31 @@
+PODS:
+  - CocoaLumberjack (3.8.0):
+    - CocoaLumberjack/Core (= 3.8.0)
+  - CocoaLumberjack/Core (3.8.0)
+  - TuistExampleLoggingLibrary (1.0.0):
+    - CocoaLumberjack (~> 3.8.0)
+
+DEPENDENCIES:
+  - TuistExampleLoggingLibrary (from `https://github.com/Buju77/TuistExampleLoggingLibrary.git`, branch `main`)
+
+SPEC REPOS:
+  trunk:
+    - CocoaLumberjack
+
+EXTERNAL SOURCES:
+  TuistExampleLoggingLibrary:
+    :branch: main
+    :git: https://github.com/Buju77/TuistExampleLoggingLibrary.git
+
+CHECKOUT OPTIONS:
+  TuistExampleLoggingLibrary:
+    :commit: f7359adbb3c318b917203756b2fdaec17108dd7f
+    :git: https://github.com/Buju77/TuistExampleLoggingLibrary.git
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 78abfb691154e2a9df8ded4350d504ee19d90732
+  TuistExampleLoggingLibrary: 59c5b984172144b5b5795d1851ee96e272fbca26
+
+PODFILE CHECKSUM: a93fc4e6b8fedfacb6343f83215c56497a5467bd
+
+COCOAPODS: 1.12.1

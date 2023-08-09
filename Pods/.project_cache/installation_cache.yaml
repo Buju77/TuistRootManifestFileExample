@@ -1,0 +1,53 @@
+BUILD_CONFIGURATIONS:
+  Debug: :debug
+  Release: :release
+CACHE_KEYS:
+  CocoaLumberjack:
+    BUILD_SETTINGS_CHECKSUM:
+      CocoaLumberjack:
+        :debug: d73a4908cd379de6373a3d6370cd9e92
+        :release: d73a4908cd379de6373a3d6370cd9e92
+    CHECKSUM: 78abfb691154e2a9df8ded4350d504ee19d90732
+    PROJECT_NAME: CocoaLumberjack
+    SPECS:
+      - CocoaLumberjack (3.8.0)
+      - CocoaLumberjack/Core (3.8.0)
+  Pods-TuistRootManifestFileExample:
+    BUILD_SETTINGS_CHECKSUM:
+      Debug: 21379cf4f59cfa3fee6be8f81c49d49d
+      Release: 21379cf4f59cfa3fee6be8f81c49d49d
+  Pods-TuistRootManifestFileExample-UnitTests:
+    BUILD_SETTINGS_CHECKSUM:
+      Debug: ec5d1f751c1aa49e4a9cda871d5e06f7
+      Release: ec5d1f751c1aa49e4a9cda871d5e06f7
+  TuistExampleLoggingLibrary:
+    BUILD_SETTINGS_CHECKSUM:
+      TuistExampleLoggingLibrary:
+        :debug: 6f1cec52de8dfdc59bdaf9b0b8b99697
+        :release: 6f1cec52de8dfdc59bdaf9b0b8b99697
+    CHECKOUT_OPTIONS:
+      :commit: f7359adbb3c318b917203756b2fdaec17108dd7f
+      :git: https://github.com/Buju77/TuistExampleLoggingLibrary.git
+    CHECKSUM: 59c5b984172144b5b5795d1851ee96e272fbca26
+    PROJECT_NAME: TuistExampleLoggingLibrary
+    SPECS:
+      - TuistExampleLoggingLibrary (1.0.0)
+INSTALLATION_OPTIONS:
+  clean: true
+  deduplicate_targets: true
+  deterministic_uuids: true
+  disable_input_output_paths: false
+  generate_multiple_pod_projects: true
+  incremental_installation: true
+  integrate_targets: true
+  lock_pod_sources: true
+  parallel_pod_download_thread_pool_size: 40
+  parallel_pod_downloads: false
+  preserve_pod_file_structure: false
+  share_schemes_for_development_pods: false
+  skip_pods_project_generation: false
+  warn_for_multiple_pod_sources: true
+  warn_for_unused_master_specs_repo: true
+OBJECT_VERSION: 55
+PLUGINS:
+  {}

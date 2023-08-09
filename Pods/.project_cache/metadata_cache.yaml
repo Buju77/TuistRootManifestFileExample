@@ -1,0 +1,20 @@
+CocoaLumberjack:
+  LABEL: CocoaLumberjack
+  PROJECT_PATH: CocoaLumberjack.xcodeproj
+  UUID: 85392ABCB5967FC7F189FA544F4E883D
+Pods-TuistRootManifestFileExample:
+  LABEL: Pods-TuistRootManifestFileExample
+  PROJECT_PATH: Pods.xcodeproj
+  UUID: 4CF5533F1DEB8152709D0E7943828872
+Pods-TuistRootManifestFileExample-TuistRootManifestFileExampleUITests:
+  LABEL: Pods-TuistRootManifestFileExample-TuistRootManifestFileExampleUITests
+  PROJECT_PATH: Pods.xcodeproj
+  UUID: 21C368E67801E205B0336E3DBF534AD4
+Pods-TuistRootManifestFileExample-UnitTests:
+  LABEL: Pods-TuistRootManifestFileExample-UnitTests
+  PROJECT_PATH: Pods.xcodeproj
+  UUID: 66CF5F7C6D888140A20A9066AB5DB46B
+TuistExampleLoggingLibrary:
+  LABEL: TuistExampleLoggingLibrary
+  PROJECT_PATH: TuistExampleLoggingLibrary.xcodeproj
+  UUID: 8B334C0CDA18F20700C45D5A8A2ABCC4

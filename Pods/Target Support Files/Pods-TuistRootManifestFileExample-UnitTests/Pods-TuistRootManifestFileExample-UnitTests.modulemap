@@ -1,0 +1,6 @@
+framework module Pods_TuistRootManifestFileExample_UnitTests {
+  umbrella header "Pods-TuistRootManifestFileExample-UnitTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

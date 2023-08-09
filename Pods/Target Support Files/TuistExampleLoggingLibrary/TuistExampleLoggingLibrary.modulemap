@@ -1,0 +1,6 @@
+framework module TuistExampleLoggingLibrary {
+  umbrella header "TuistExampleLoggingLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
