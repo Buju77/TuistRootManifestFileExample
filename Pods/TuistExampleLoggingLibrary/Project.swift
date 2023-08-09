@@ -1,5 +1,5 @@
 import ProjectDescription
-// import ProjectDescriptionHelpers
+// import ProjectDescriptionHelpers  // no idea why this needs to be commented out to make generation work
 
 import RTTuistSimplifier
 
